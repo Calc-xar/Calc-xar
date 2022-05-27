@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Calc-xar
-- 👀 I’m interested in solving new problems everyday that challenge me.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on any fun and interesting project ideas anyone have.
-- 📫 How to reach me ...
+-  Hi, my name is Alexis Ceballos Pelaez. I am a rising senior at WFU.
+-  I’m interested in solving problems.
+-  I’m currently learning phyton.
+
 
 <!---
 Calc-xar/Calc-xar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
